@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"TargetList"
+			],
+			[
+				"is",
+				"isEnglish"
+			],
+			[
+				"row",
+				"rowEl"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"print",
+				"printObj"
+			],
+			[
+				"prin",
+				"printObj"
+			],
+			[
+				"w",
+				"wait"
+			],
+			[
+				"new",
+				"new_file"
+			],
+			[
+				"page",
+				"page_content"
+			],
+			[
+				"text",
+				"text_content"
+			],
+			[
+				"abs",
+				"abs"
+			],
+			[
+				"listof",
+				"listOfStructs"
+			],
+			[
+				"Varia",
+				"img:VariableArea"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"eq",
+				"equation"
+			],
+			[
+				"list",
+				"listOfStructs"
+			],
+			[
+				"жестк",
+				"жесткостной"
+			],
+			[
+				"colo",
+				"colorbar"
+			],
+			[
+				"bre",
+				"breakmode"
+			],
+			[
+				"some",
+				"somen"
+			],
+			[
+				"lis",
+				"listOfColors"
+			],
+			[
+				"my",
+				"mylist"
+			],
+			[
+				"li",
+				"listOfStructs"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"mat",
+				"mat"
+			],
+			[
+				"напр",
+				"направлению"
+			],
+			[
+				"u5",
+				"u5"
+			],
+			[
+				"K",
+				"k_xy"
+			],
+			[
+				"k",
+				"k_1x"
+			],
+			[
+				"c",
+				"c_x"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"tem",
+				"term"
+			],
+			[
+				"exp",
+				"exp_arg"
+			],
+			[
+				"str",
+				"output_str"
+			],
+			[
+				"pos_",
+				"pos_replace"
+			],
+			[
+				"my_",
+				"my_var"
+			],
+			[
+				"outp",
+				"output_str"
+			],
+			[
+				"out",
+				"output_str"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"ou",
+				"output_str"
+			],
+			[
+				"PsiD",
+				"PsiDdxRightPart"
+			],
+			[
+				"dd",
+				"ddyRightPart"
+			],
+			[
+				"impo",
+				"import"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"path",
+				"pathpts"
+			],
+			[
+				"p",
+				"pathpts"
+			],
+			[
+				"rec",
+				"rect"
+			]
+		]
+	},
+	"build_system": "Packages/User/SublimeREPL-python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/SublimeREPL-python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/SublimeREPL-python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/SublimeREPL-python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "isnta",
+		"selected_items":
+		[
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ter",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sub",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 505.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"--help",
+			"-help",
+			"\\help",
+			"/help",
+			"help",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"dh = hashlib.sha256(by).hexdigest()",
+			"by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read()",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) )",
+			"ipp = sublime.installed_packages_path()",
+			"print(pf)",
+			"pf = 'Package Control.sublime-package'",
+			"print(h)",
+			"h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'",
+			"import urllib.request,os,hashlib",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"len([v.run_command(\"revert\") for v in window.views()])"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mrpet/Desktop/passports/myfuncs.py",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/mrpet/Desktop/passports/main.py",
+		"/C/Users/mrpet/Desktop/passports/instances.py",
+		"/C/Users/mrpet/Desktop/passports/TableRowClass.py",
+		"/C/Users/mrpet/Desktop/passports/passports.sublime-project",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/диплом.txt",
+		"/C/Users/mrpet/Desktop/passports/passports.sublime-workspace",
+		"/C/Users/mrpet/Desktop/passports/CHECK.txt",
+		"/C/Users/mrpet/Desktop/passports/word_gen.py",
+		"/C/Users/mrpet/Desktop/passports/__temp.py",
+		"/C/Users/mrpet/Desktop/passports/ss.py",
+		"/C/Users/mrpet/Desktop/passports/old/main4.py",
+		"/C/Users/mrpet/Desktop/passports/old/main3.py",
+		"/C/Users/mrpet/Desktop/passports/old/main2.py",
+		"/C/Users/mrpet/Desktop/passports/old/main.py",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/mrpet/Desktop/ss.py",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/run_existing_command.py",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/C/Users/mrpet/Desktop/test.txt",
+		"/D/Programs/Anaconda3/ss.py",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/messages/2.0.0.txt",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/messages.json",
+		"/C/Users/mrpet/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl.py",
+		"/C/Users/mrpet/Desktop/passports/temp.py",
+		"/C/Users/mrpet/Desktop/passports/sample.txt",
+		"/C/Users/mrpet/Desktop/passports/tags.txt",
+		"/C/Users/mrpet/Desktop/sample.txt",
+		"/C/Users/mrpet/Desktop/passports/main3.py",
+		"/D/Programs/Anaconda3/Lib/site-packages/tabula/wrapper.py",
+		"/C/Users/mrpet/Desktop/passports/new.txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/conclusion.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/acronyms.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/appendix.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/appendixsetup.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/dictionary.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/part2.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/introduction.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/dissertation.run.xml",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/dispackages.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/lists.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/dissertation.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/biblio/authorpapersVAK.bib",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/references.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/userstyles.tex",
+		"/C/Program Files/MiKTeX 2.9/tex/latex/l3packages/l3keys2e/l3keys2e.sty",
+		"/C/Users/mrpet/AppData/Roaming/MiKTeX/2.9/tex/latex/l3packages/l3keys2e/l3keys2e.sty",
+		"/C/Users/mrpet/Desktop/passports/Новый текстовый документ.txt",
+		"/D/Downloads/Ansys.Products.18.0.Win64-SSQ/_SolidSQUAD_/readme_local_ssq.txt",
+		"/C/Users/mrpet/AppData/Local/Temp/Temp1_2_2_CSTRL.zip/2_2_CSTRL/main.f90",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/biblio/othercites.bib",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/userpackages.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/part1.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/part3.tex",
+		"/C/Users/mrpet/Desktop/MEMS/Memb_diagrams/DATA/3_d.TXT",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/MATCONT/python.py",
+		"/C/Users/mrpet/Desktop/MEMS/Beam/DATA/PYTHON/plot.py",
+		"/C/Users/mrpet/Desktop/MEMS/Memb_diagrams/DATA/PYTHON/plot.py",
+		"/C/Users/mrpet/Desktop/MEMS/Beam/___0 TRANS126/plot.py",
+		"/C/Users/mrpet/Desktop/MEMS/Memb_diagrams/DATA/1_d.TXT",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/concl.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/characteristic.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/data.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/title.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Template/common/concl.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Bachelor-thesis-Fasakhov-R.R.-master/common/concl.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/Метод Многих Масштабов/temp.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Bachelor-thesis-Fasakhov-R.R.-master/Dissertation/part2.tex",
+		"/C/Users/mrpet/Desktop/MEMS/Membrane/___3 Mutli-field/MEMS_Plate_MFS.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/styles.tex",
+		"/C/Users/mrpet/Desktop/MEMS/Memb_diagrams/___2 ElectroElastic/MAIN.apdl",
+		"/D/Programs/MATCONT/matcont6p6/Systems/MEMS_Gyro_Direct.m",
+		"/D/Programs/MATCONT/matcont6p6/Systems/Aniso_MEMS_Gyro_Direct.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Bachelor-thesis-Fasakhov-R.R.-master/common/data.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/data2.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/preamblenames.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/setup.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation_Roman/title.tex",
+		"/C/Users/mrpet/Desktop/MEMS/Memb_diagrams/___3 Mutli-field/ANSYS/1.TXT",
+		"/C/Users/mrpet/Desktop/MEMS/Membrane/___3 Mutli-field/ANSYS/output.txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Bachelor-thesis-Fasakhov-R.R.-master/biblio/othercites.bib",
+		"/C/Users/mrpet/Desktop/MEMS/Beam/DATA/3_d.TXT",
+		"/C/Users/mrpet/Desktop/Главы мусор/plot.py",
+		"/C/Users/mrpet/Desktop/MEMS/Membrane/AnRes/plot.py",
+		"/C/Users/mrpet/Desktop/MEMS/Memb_diagrams/ALL_IN2.txt",
+		"/D/Programs/MATCONT/matcont6p6/Equilibrium/equilibrium.m",
+		"/D/Programs/MATCONT/matcont6p6/Systems/Aniso_MEMS_Gyro_Direct_3_TERM.m",
+		"/C/Users/mrpet/Desktop/Новый текстовый документ.txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/Метод Многих Масштабов/MMM.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/Вычисления/2DOF_Anisoelasticy/MATLAB/functions/eqs.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/Вычисления/2DOF_Anisoelasticy/MMM.tex",
+		"/D/Programs/MATCONT/matcont6p6/Systems/Aniso_MEMS_Gyro_Dynamics_MATCONT.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation/part2.aux",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/MATCONT/Systems.txt",
+		"/C/Users/mrpet/Downloads/MEMS_Gyro_Dynamics_launch (2).m",
+		"/C/Users/mrpet/Desktop/Gyroscope/─шяыюь/╤рь ─шяыюь/╠юх------------------/Dissertation/part3.tex",
+		"/C/Users/mrpet/Desktop/disp.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/MATCONT/REALTEMP.py",
+		"/C/Users/mrpet/Desktop/MEMS/Beam/DATA/SE.txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Dissertation_Roman/part2.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Template/Dissertation/part2.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Template/Dissertation/part3.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Bachelor-thesis-Fasakhov-R.R.-master/Dissertation/part1.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Template/Dissertation/references.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Bachelor-thesis-Fasakhov-R.R.-master/Dissertation/references.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Алексея/От него/15 июня/init_O_LC.m",
+		"/D/Programs/MATCONT/matcont6p6/Systems/MEMS_Gyro_Dynamics_MATCONT.m",
+		"/D/Programs/MATCONT/matcont6p6/Systems/Original_MEMS_Gyro_Dynamics_MATCONT.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/MATCONT/old/Peters_MMM_input.txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/MATCONT/launch_matcont.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/Вычисления/Новый текстовый документ.txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/Вычисления/Новый текстовый документ (2).txt",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Мое/MATCONT/Original.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Алексея/От него/14 июня/Alex_MEMS_Gyro_Dynamics.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Алексея/От него/15 июня/MEMS_Gyro_Dynamics_launch.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Алексея/От него/15 июня/MEMS_Gyro_Direct.m",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/packages.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/Readme/github.md",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/README.md",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/temp.tex",
+		"/C/Users/mrpet/Desktop/Gyroscope/Диплом/Сам Диплом/Мое------------------/common/newnames.tex",
+		"/C/Users/mrpet/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"                     ",
+			"Omega",
+			"Частота вращения",
+			"Частота вращения двигателя",
+			"Давление на выходе",
+			"get_double",
+			"None",
+			"get_double",
+			" ",
+			",",
+			"точка ",
+			"Вода, горячая вода",
+			"точка",
+			"\\",
+			">>>",
+			" ",
+			"restart",
+			"translate",
+			"update",
+			" ",
+			"_subst_for_translate",
+			"main.sub",
+			"comman",
+			"_subst_for_translate",
+			"file_base",
+			"replopen",
+			"repl",
+			"replopen",
+			"$file_basename",
+			"extend_env",
+			" ",
+			"env",
+			"can't open file '$file_basename'",
+			"Exception",
+			"')",
+			"\"caption\": \"Python - IPython\"",
+			"\"cmd\": [\"python\"",
+			"cmd",
+			"\"external_id\"",
+			"\"cmd\": [\"python\", \"-u\", \"$file_basename\"]",
+			" ",
+			"if view.id() == view_id",
+			"view.id() == view_id",
+			"if view.id() ==",
+			"if view.id() == view_id",
+			"\"external_id\": \"python\"",
+			"external_id",
+			"syntax",
+			" ",
+			"thing",
+			"число",
+			"ступе",
+			"07",
+			"число ступеней",
+			"перекачиваем",
+			"НЕТ",
+			"чист",
+			"вода",
+			"среда",
+			"перекачиваемая",
+			"перекачиваемая среда",
+			"from",
+			"sample",
+			"line 75",
+			"java",
+			"\\",
+			" ",
+			"}\n",
+			"PTC_D_LICENSE_FILE",
+			"\\color{dark_grey}",
+			"200",
+			"155",
+			"\\section{\\color{dark_blue}",
+			"\\section",
+			"\\section{",
+			"section",
+			"%-------------------------------------------------------------------------------\n\n%-------------------------------------------------------------------------------",
+			"%-------------------------------------------------------------------------------\n",
+			"%-------------------------------------------------------------------------------",
+			"\\section",
+			"solid",
+			"times",
+			"section",
+			"ax1",
+			"obj2",
+			"lambda_17_DirectSol",
+			"delta",
+			"встифеев",
+			"возможности",
+			"диффе",
+			"ВСТИФЕЕВ",
+			"cite",
+			"colo",
+			"сравнение",
+			"Matco",
+			"figure",
+			"\\Omega_z",
+			"c_x",
+			"\\\\",
+			"xy",
+			"O_",
+			"*",
+			"z",
+			"q",
+			"\\undervec{",
+			"\\bm{",
+			"\\bm{A}",
+			"\\\\bm{.}",
+			"\\\\bm{\\.}",
+			"]",
+			"[",
+			"q",
+			"\\dot q",
+			"dot q",
+			"q",
+			"\\boldmath",
+			"метод мног",
+			"перепишутс",
+			"{П}",
+			"\\text{П}",
+			"\\textit",
+			"Возбуждающий",
+			"\n",
+			"}.\n",
+			"\n",
+			"\\n",
+			"Общие методы исследования устойчивости движения Ляпунова сильны прежде \nвсего своей универсальностью, и именно поэтому они не могут содержать \nанализа различных физических факторов, влияющих на устойчивость движения. \nМежду тем во многих случаях такой анализ, проведенный в достаточно общем \nвиде, может оказаться весьма полезным. В этой главе мы рассмотрим, как \nвлияют на устойчивость движения различные силы. \nИсследование влияния структуры сил на устойчивость движения началось по \nсуществу с работ Томсона и Тета *). В 1879 г. они дали общее определение \nгироскопических сил и доказали четыре теоремы об устойчивости движения. \nЭто направление не развивалось около семидесяти лет. По-видимому, это \nможно объяснить тем, что за эти годы была создана общая теория \nустойчивости движения с ее эффективными методами исследования. Другая \nпричина состоит в том, что теоремы Томсона и Тета были сформулированы \nтолько для линейных автономных систем. Наконец, эта теория не включала \nнеконсервативные позиционные силы, значение которых для многочисленных \nтехнических приложений прояснилось в полной мере лишь за последние \nдесятилетия. \nВ начале пятидесятых годов нашего столетия снова возник интерес к \nвопросам исследования устойчивости движения по структуре действующих сил. \nБыло дано строгое доказательство теорем Томсона и Тета, затем эти теоремы \nбыли распространены на нелинейные системы и были получены новые \nрезультаты, охватывающие неконсервативные позиционные силы. Эти \nрезультаты позволяют составить отчетливое физическое представление о \nвлиянии \n1) Теорема Лагранжа об устойчивости равновесия (см. § 3.1), имеющая \nнепосредственное отношение к изучаемому вопросу, доказана в годы, когда \nрассматривались практически только консервативные системы. "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 159.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 211.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 190.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"row",
+				"TableRowClass.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
